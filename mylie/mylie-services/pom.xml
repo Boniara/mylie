@@ -11,5 +11,10 @@
 
     <artifactId>mylie-services</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>com.bavuta</groupId>
+            <artifactId>mylie-dbaccess</artifactId>
+        </dependency>
+    </dependencies>
 </project>
